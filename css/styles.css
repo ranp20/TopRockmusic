@@ -122,7 +122,7 @@ hr{
     padding: 3em;
     justify-content: center;
     position: relative;
-    background: url('/images/rock_guitarra1.jpg') no-repeat center center/cover;
+    background: url(/images/rock_guitarra1.jpg) no-repeat center center/cover;
 }
 
 .header-page::before{
