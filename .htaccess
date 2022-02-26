@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteBase /TopRockMusic/
+
+############ RENOMBRANDO ARCHIVOS...
+RewriteRule ^/?$ index.php
+#RewriteRule ^login?$ views/login.php
+#RewriteRule ^account?$ views/account.php
+
+############ ALL PAGES ADMIN
+
+############ ALL PAGES CLIENTS
