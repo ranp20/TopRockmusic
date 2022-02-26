@@ -19,7 +19,6 @@ html{
 	scroll-behavior: smooth;
 }
 body{
-  background: url(/images/rock_paper3.jpg);
   background-size: 100vh;
 }
 .container{
@@ -103,7 +102,6 @@ hr{
   padding: 3em;
   justify-content: center;
   position: relative;
-  background: url(/images/rock_guitarra1.jpg) no-repeat center center/cover;
 }
 .header-page::before{
   content: '';

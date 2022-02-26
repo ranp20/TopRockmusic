@@ -3,15 +3,15 @@
   $principal_url =  $actual_link . "/" ."TopRockMusic/";
 ?>
 <meta name="description" content="La auténtica música. Excelentes álbumes, playList y mejores songs de tus artistas favoritos."/>
-<!--<link rel="icon" type="image/x-icon" href="./assets/img/favicon/Logo_RESTAURANT_proyect.ico">-->
-<!--<link rel="apple-touch-icon" href="./assets/img/favicon/Logo_RESTAURANT_proyect.ico">-->
+<link rel="icon" type="image/x-icon" href="./views/assets/images/favicon/Logo_icon_TopRockMusic.ico">
+<link rel="apple-touch-icon" href="./views/assets/images/favicon/Logo_icon_TopRockMusic.ico">
 <link rel="canonical" href="https://localhost/TopRockMusic">
 <meta name="theme-color" content="#FFBD59">
 <meta name="author" content="R@np-2021"/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
 <meta name="twitter.card" content="summary">
 <meta property="og:title" name="twitter.title" content="TopRockMusic - Mejores PlayList">
-<!--<meta property="og:image" name="twitter.image" content="./assets/img/favicon/Logo_RESTAURANT_proyect_100x100.png">-->
+<meta property="og:image" name="twitter.image" content="./views/assets/images/logo/logo_TopRockMusic.png">
 <meta property="og:url" name="twitter.url" content="https://localhost/TopRockMusic">
 <meta property="og:description" name="twitter.description" content="Las mejores canciones. Excelentes playList, lo más pedido.">
 <meta property="og:type" content="website"/>

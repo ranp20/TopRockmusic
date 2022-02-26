@@ -7,7 +7,7 @@
     <title>TopRockMusic - Tu música favorita en un solo lugar</title>
     <?php require_once "views/includes/header_links.php";?>
 </head>
-<body>
+<body style="background-image: url(views/assets/images/papers/rock_paper3.jpg);">
   <div>
     <!-- NAVIGATION CONTENT -->
     <div class="nav-bar">
@@ -27,7 +27,7 @@
     </div>    
     <!-- PRINCIPAL HEADER -->
     <div>
-      <header class="header-page">
+      <header class="header-page" style="background-image: url(views/assets/images/wallpapers/rock_guitarra1.jpg);">
         <h2>Siente la energía...</h2>
         <p>Revivie tus mejores momentos y ten siempre tu mejor música.</p>
         <a href="#" class="btn-page">Entérate más <i class="fa fa-angle-double-right"></i></a>
